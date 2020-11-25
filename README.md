@@ -10,6 +10,8 @@ sbt "runMain scio.example.jdbc.Dataflow --readSqlPassword=test --readSqlDb=test 
 
 ### Related Blogpost 
 
-https://innfactory.de/softwareentwicklung/data-science-engineering/was-die-uebertragung-von-daten-aus-legacy-systemen-mit-spotify-gemeinsam-hat/
+- https://innfactory.de/softwareentwicklung/data-science-engineering/was-die-uebertragung-von-daten-aus-legacy-systemen-mit-spotify-gemeinsam-hat/
 
-https://innfactory.de
+- https://innfactory.medium.com/what-data-transfer-from-legacy-systems-has-in-common-with-spotify-8e280f301f75
+
+- https://innfactory.de
